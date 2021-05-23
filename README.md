@@ -17,7 +17,5 @@ Run the app,
 
 ## Snapshots
 
-![alt](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171153.jpg|width= 200)
-![alt text](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171248.jpg)
-![alt text](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171236.jpg)
-![alt text](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171227.jpg)
+<img src="./ScreenShots/Screenshot_20210523-171153.jpg" alt="ss"
+	title="A cute kitten" width="100" height="150" />
