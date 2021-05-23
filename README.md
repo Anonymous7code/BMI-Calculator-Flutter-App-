@@ -19,3 +19,9 @@ Run the app,
 
 <img src="./ScreenShots/Screenshot_20210523-171153.jpg" alt="ss"
 	title="A cute kitten" width="225" height="420" />
+<img src="./ScreenShots/Screenshot_20210523-171227.jpg" alt="ss"
+	title="A cute kitten" width="225" height="420" />
+<img src="./ScreenShots/Screenshot_20210523-171236.jpg" alt="ss"
+	title="A cute kitten" width="225" height="420" />
+<img src="./ScreenShots/Screenshot_20210523-171248.jpg" alt="ss"
+	title="A cute kitten" width="225" height="420" />
