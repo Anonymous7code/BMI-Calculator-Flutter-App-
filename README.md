@@ -17,7 +17,7 @@ Run the app,
 
 ##  Snapshots
 ![alt text](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171153.jpg)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171248.jpg)
+![alt text](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171236.jpg)
+![alt text](https://github.com/Anonymous7code/BMI-Calculator-Flutter-App-/blob/master/ScreenShots/Screenshot_20210523-171227.jpg)
+
