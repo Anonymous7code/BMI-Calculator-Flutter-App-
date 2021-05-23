@@ -18,4 +18,4 @@ Run the app,
 ## Snapshots
 
 <img src="./ScreenShots/Screenshot_20210523-171153.jpg" alt="ss"
-	title="A cute kitten" width="225" height="400" />
+	title="A cute kitten" width="225" height="420" />
